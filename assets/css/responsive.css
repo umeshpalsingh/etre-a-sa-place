@@ -1,0 +1,633 @@
+@media(min-width:1600px){
+    .container{
+        max-width: 1600px;
+    }
+}
+
+@media(max-width:1599px){
+    .pd-header h2 {
+        line-height: 45px;
+        margin-bottom: 32px;
+        font-size: 44px;
+        font-weight: 700;
+        color: white;
+    }
+    .pd-header h2 {
+        line-height: 41px;
+        margin-bottom: 32px;
+        font-size: 41px;
+        font-weight: 700;
+    }
+    .pd-header p {
+        font-size: 19px;
+       }
+       .pd-header h3 {
+        font-size: 33px;
+      }
+    .menu-list{
+        gap: 25px;
+    }
+
+    .menu-list li a{
+        font-size: 18px;
+    }
+
+    .slider-holder{
+        height: 700px;
+    }
+    .banner-title h1{
+        font-size: 70px;
+        line-height: 90px;
+        
+    }
+    .banner-title {
+        top: 25%;
+        max-width: 1330px;
+        width: 100%;
+    }
+   
+    .approach-section{
+        padding: 50px 0px;
+    }
+
+    .approachcontent h2 {
+        font-size: 50px;
+    }
+    .gridapproach h3 {
+        font-size: 30px;
+    }
+    .gridapproach p,.thebookcontent p,.onlinetraning-content p {
+        font-size: 18px;
+        line-height: 35px;
+    }
+    .nextevent-content h3 {
+        font-size: 25px;
+        line-height: 32px;
+        padding: 15px 0px;
+    }
+    .blog-sec {
+        padding: 70px 0px;
+    }
+    .online-broadcast {
+        padding: 70px 0px;
+    }
+
+    .thebook-section {
+        padding: 60px 0px;
+    }
+}
+@media(max-width:1399px){
+    .pd-header h2 {
+        line-height: 33px;
+        margin-bottom: 26px;
+        font-size: 38px;
+    }
+    .pd-header h3 {
+        font-size: 32px;
+    }
+    .pd-header p {
+        font-size: 18px;
+    }
+    .menu-list{
+        gap: 20px;
+    }
+
+    .menu-list li a{
+        font-size: 16px;
+    }
+    .slider-holder{
+        height: 600px;
+    }
+    .banner-title h1{
+        font-size: 60px;
+        line-height: 80px;
+        
+    }
+    .approach-section{
+        padding: 40px 0px;
+    }
+    .approachcontent h2 {
+        font-size: 40px;
+    }
+    .gridapproach h3 {
+        font-size: 25px;
+    }
+    .gridapproach p, .thebookcontent p, .onlinetraning-content p {
+        font-size: 16px;
+        line-height: 31px;
+    }
+    .approachcontent p {
+        font-size: 19px;
+     
+        padding-top: 15px;
+      
+    }
+    .approachcontent {
+      
+        padding-bottom: 0px;
+      
+    }
+    .nextevent {
+        padding: 50px 0px;
+    }
+
+    .nextevent-content h3 {
+        font-size: 22px;
+        line-height: 29px;
+        padding: 10px 0px;
+    }
+    .nextevent {
+        padding: 30px 0px;
+    }
+    .approachcontent h2 {
+        font-size: 40px;
+        padding-bottom: 30px;
+    }
+    .onlinetraning-content h3 {
+        font-size: 35px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    .afteraboutmain h3 {
+        font-size: 24px;
+        padding: 10px 0;
+    }
+    .afteraboutmain p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 27px;
+        text-align: left;
+    }
+    .afteraboutmain {
+        padding: 20px 15px;
+    }
+    .thebook-section {
+        padding: 40px 0;
+    }
+    .blog-section {
+        padding: 50px 0;
+    }
+    .onlinetraning-section {
+        /* background-color: #f26071; */
+        padding: 50px 0px;
+    }
+    .blog-sec {
+        padding: 50px 0px;
+    }
+    .online-broadcast {
+        padding: 60px 0px;
+    }
+    .thebook-section {
+        padding: 50px 0px;
+    }
+    .banner-title {
+        /* top: 25%; */
+        max-width: 1110px;
+        width: 100%;
+    }
+    .gridapproach h3 {
+        font-size: 25px;
+        /* text-align: center; */
+        align-items: center;
+        margin: 6px auto;
+        /* padding: 20px 0px; */
+    }
+    .gridapproach p, .thebookcontent p, .onlinetraning-content p {
+        font-size: 16px;
+        line-height: 31px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 20px 0;
+    }
+}
+@media(max-width:1199px){
+    .pd-header h2 {
+        line-height: 30px;
+        margin-bottom: 21px;
+        font-size: 35px;
+    }
+    .pd-header h3 {
+        font-size: 27px;
+    }
+    .menu-list{
+       
+        gap: 16px;
+    }
+    .blogssubheading h2 {
+        font-size: 55px;
+        line-height: 59px;
+    }
+
+    .menu-list li a{
+       
+        font-size: 15px;
+        
+    }
+    .slider-holder{
+        height: 500px;
+    }
+    .banner-title h1{
+        font-size:50px;
+        line-height: 70px;
+        
+    }
+
+    .afteraboutmain p{
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .innerblogsflex {
+        flex-direction: column;
+    }
+    .approach-section{
+        padding: 30px 0px;
+    }
+
+    /* .responsiveHeader{
+        display: none;
+    } */
+    .blog-sec {
+        padding: 40px 0px;
+    }
+    .blog-sec .swiper-pagination1.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+        padding-top: 20px;
+    }
+    .online-broadcast {
+        padding: 40px 0px;
+    }
+    .thebook-section {
+        padding: 40px 0px;
+    }
+    .approachcontent h2 {
+        font-size: 30px;
+        /* padding-bottom: 20px; */
+    }
+    .approachcontent p {
+        /* font-size: 30px; */
+        padding-bottom: 27px;
+    }
+    .row.justify-content-center.footerlast {
+        align-items: initial;
+        /* padding: 10px 10px; */
+    }
+    .banner-title {
+        /* top: 25%; */
+        max-width: 900px;
+        width: 100%;
+    }
+    /* .banner-title a {
+        font-size: 16px;
+        background: #f26071;
+        color: #fff;
+        text-decoration: none;
+        padding: 2px 11px;
+        display: inline-block;
+        border-radius: 5px;
+        border: 1px solid #f26071;
+        transition: 0.3s ease-in;
+    } */
+}
+@media(max-width:991px){
+    .pd-header h2 {
+        max-width: 475px;
+        line-height: 30px;
+        font-size: 26px;
+        width: 100%;
+        margin: 0px;
+    }
+    .pd-header p {
+        font-size: 17px;
+    }
+    .reverseonlinetraning {
+        margin-left: initial;
+        margin: 0 auto;
+        padding: 15px 0px;
+    }
+    .thebookcoverimg {
+        max-width: fit-content;
+        margin: auto;
+    }
+    .afteraboutmain {
+        padding: 15px 15px;
+    }
+    .onlinebackgrpund{
+        padding: 10px 0px;
+    }
+    .homeBanner-section .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after{
+font-size: 30px;
+    }
+    .homeBanner-section .swiper-button-prev:after, .swiper-rtl .swiper-button-next:after{
+font-size: 30px;
+    }
+    .hamburgerImg{
+        display: block;
+        width: 60px;
+        padding: 15px;
+    }
+    .menu-list{
+        display: none;
+    }
+
+    .toogle{
+        display: block;
+    }
+    .slider-holder{
+        height: 400px;
+    }
+    .banner-title h1{
+        font-size: 40px;
+        line-height: 60px;
+        
+    }
+    .banner-title{
+        max-width: 575px;
+        width: 100%;
+        padding: 0px 18px;
+        
+    margin-left: 60px;
+
+    }
+
+    .nextevent-content {
+        margin-bottom: 25px;
+    }
+
+    
+.thebookcontent p {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.blogssubheading h2{
+    margin-bottom: 40px;
+}
+
+.innerblogsflex {
+    flex-direction: column;
+    text-align: center;
+}
+
+.innerheadingblog {
+    max-width: 688px;
+    width: 100%;
+    /* padding: 10px 15px; */
+    /* text-align: center; */
+    margin-top: 20px;
+}
+.approach-section{
+    padding: 20px 0px;
+}
+.blogssubheading h2 {
+    font-size: 39px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.contact-info2,.contact-info {
+    padding: 40px 0;
+    max-width: fit-content;
+    margin-left: auto;
+}
+.contact-info1{
+    padding: 30px 0px;
+}
+.blog-sec {
+    padding: 30px 0px;
+}
+.blog-sec .swiper-pagination1.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+    padding-top: 25px;
+}
+.blog-sec .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+    height: 10px;
+    width: 10px;
+}
+.online-broadcast {
+    padding: 30px 0px;
+}
+.approachcontent p{
+    padding-bottom: 15px;
+}
+.thebook-section {
+    padding: 30px 0px;
+}
+.approachcontent h2 {
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+}
+@media(max-width:767px){
+    .thebook-section {
+        padding: 40px 0px;
+    }
+
+    .banner-title p {
+        font-size: 20px;
+        color: #fff;
+        font-weight: 500;
+        line-height: 20px;
+    }
+    .onlinetraning-content h3 {
+        font-size: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 18px;
+    }
+    .contact-info2,.contact-info {
+        margin-left: initial;
+    }
+    .slider-holder{
+        height: 350px;
+    }
+    .banner-title h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .banner-title{
+        max-width: 66%;
+        /* width: 100%; */
+    }
+    
+    .approachcontent h2 {
+        font-size: 35px;
+        padding-bottom: 10px;
+    }
+    .gridapproach h3 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .onlinetraning-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+.blogssubheading h2 {
+    font-size: 40px;
+    line-height: 40px;
+}
+.contact-info2, .contact-info {
+    padding: 15px 0;
+}
+.blog-sec {
+    padding: 20px 0px;
+}
+.blog-sec .swiper-pagination1.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+    padding-top: 20px;
+}
+.online-broadcast {
+    padding: 20px 0px;
+}
+.thebook-section {
+    padding: 20px 0px;
+}
+}
+
+
+
+@media(max-width:575px){
+    .slider-holder{
+        height: 300px;
+    }
+    .banner-title h1 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .banner-title p {
+        font-size: 16px;
+        /* color: #f26071; */
+        font-weight: 500;
+    }
+    .banner-title a{
+        font-size: 13px;
+        padding: 8px 20px;
+    }
+    .approachcontent h2 {
+
+        font-size: 35px;
+    }
+    .gridapproach h3 {
+        font-size: 30px;
+    }
+
+    .gridapproach p {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    .nextevent-content h3 {
+        font-size: 27px;
+    }
+
+    .thebookcontent p {
+        font-size: 18px;
+    }
+
+    .onlinetraning-content h3 {
+        font-size: 35px;
+        margin-top: 13px;
+    }
+    .onlinetraning-content p {
+        line-height: 30px;
+        font-size: 18px;
+    }
+
+    .approachcontent p{
+        font-size: 19px
+    }
+    .blogssubheading h2 {
+        font-size: 30px;
+        line-height: 27px;
+    }
+    .gridapproach h3 {
+        font-size: 20px;
+    }
+.footerlast {
+        align-items: center;
+        padding: 10px 10px;
+    }
+    .banner-title h1 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-bottom: 10px;
+    }
+    .aboutus-content.this p {
+        color: #fff;
+        padding-bottom: 20px;
+    }
+
+    .pd-header p {
+        
+        padding-bottom: 18px;
+    }
+    .thebookcontent {
+       
+        padding: 2px 0;
+    }
+}
+@media(max-width:428px){
+    /* .banner-title h1{
+        font-size: 15px;
+        line-height: 45px;
+        
+    } */
+    .approachcontent h2 {
+        font-size: 30px;
+    }
+    /* .gridapproach h3 {
+        font-size: 28px;
+    } */
+
+    .gridapproach p {
+        font-size: 16px;
+        /* margin-bottom: 25px; */
+    }
+
+    .nextevent-content h3 {
+        font-size: 23px;
+    }
+    .thebookcontent p {
+        font-size: 16px;
+    }
+    .onlinetraning-content h3 {
+        font-size: 30px;
+    }
+    .onlinetraning-content p {
+        line-height: 24px;
+        font-size: 16px;
+    }
+    
+    .approachcontent p{
+        font-size: 17px
+    }
+    .blogssubheading h2{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .innerheadingblog p {
+        font-size: 16px;
+       
+    }
+    .row.justify-content-center.footerlast {
+        align-items: center;
+        padding: 10px 10px;
+    }
+    .banner-title h1 {
+        font-size: 15px;
+        line-height: 23px;
+        padding: 4px 0px;
+    }
+    
+    .banner-title p {
+        font-size: 12px;
+        /* color: #f26071; */
+        font-weight: 500;
+        line-height: 25px;
+    }
+    .banner-title {
+        max-width: 56%;
+        /* width: 100%; */
+    } 
+    .banner-title a {
+        font-size: 11px;
+        padding: 7px 18px;
+    }   
+    .gridapproach h3 {
+        font-size: 16px;
+    }
+}
